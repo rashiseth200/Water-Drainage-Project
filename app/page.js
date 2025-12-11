@@ -43,7 +43,7 @@ export default function Home() {
 
       {/* Footer */}
       <footer className="mt-10 text-center text-gray-600 py-4">
-        © {new Date().getFullYear()} Government of India — Water Drainage Project
+        © {new Date().getFullYear()} Government of Uttar Pradesh — Water Drainage Project
       </footer>
     </main>
   );
