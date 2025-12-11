@@ -3,9 +3,9 @@ export default function Home() {
     <main className="min-h-screen bg-gray-100">
       {/* Header */}
       <header className="bg-blue-800 text-white p-5 shadow">
-        <h1 className="text-3xl font-bold">Water Storm Water Drainage Scheme Portal</h1>
+        <h1 className="text-3xl font-bold">Water Drainage Management Portal</h1>
         <p className="text-sm mt-1">
-          Urban Development Department | Government of Uttar Pradesh
+          Government of India | Urban Water Infrastructure Dashboard
         </p>
       </header>
 
@@ -43,7 +43,7 @@ export default function Home() {
 
       {/* Footer */}
       <footer className="mt-10 text-center text-gray-600 py-4">
-        © {new Date().getFullYear()} Government of Uttar Pradesh — Urban Storm Water Drainage Scheme
+        © {new Date().getFullYear()} Government of India — Water Drainage Project
       </footer>
     </main>
   );
